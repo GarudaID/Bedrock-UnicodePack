@@ -3,15 +3,9 @@
  Thanks to [jesdicaDomo](https://github.com/jesdicaDomo/Unicode-Bedrock-New)
 <br>
 
-> - <h2>How to install Unicode on mobile</h2>
-[![](http://img.youtube.com/vi/GHy_qYswfz0/0.jpg)](https://youtu.be/GHy_qYswfz0)
-
-
 > - <h2>Unicode usage</h2>
-[![](http://img.youtube.com/vi/xJIY6p1vPdY/0.jpg)](https://youtu.be/xJIY6p1vPdY)
+[![](https://cdn.discordapp.com/attachments/907202627329220618/956735612109590538/65.PNG)](https://www.youtube.com/watch?v=8dkD4giob-8)
 
-> - <h2>Server install usage</h2>
-[![](http://img.youtube.com/vi/DOz0nD8pvnM/0.jpg)](https://youtu.be/DOz0nD8pvnM)
 
  > <h2>List Unicode</h2>
  
