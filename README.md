@@ -3,7 +3,7 @@
  Thanks to [jesdicaDomo](https://github.com/jesdicaDomo/Unicode-Bedrock-New)
 <br>
 
-> - <h2>Unicode usage</h2>
+> - <h2>Unicode usage (Click this Image for Tutorial)</h2>
 [![](https://cdn.discordapp.com/attachments/907202627329220618/956735612109590538/65.PNG)](https://www.youtube.com/watch?v=8dkD4giob-8)
 
 
