@@ -4,6 +4,7 @@
 <br>
 
 > - <h2>Unicode usage (Click this Image for Tutorial)</h2>
+> - Download for used Emoji [Resourcepack RealmsEvo-V3](https://github.com/GarudaID/Bedrock-UnicodePack/raw/main/%5BEncrypt%5D%20Official%20RealmsEvo-V3.mcpack)<br><br>
 [![](https://cdn.discordapp.com/attachments/907202627329220618/956735612109590538/65.PNG)](https://www.youtube.com/watch?v=8dkD4giob-8)
 
 
