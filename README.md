@@ -1,5 +1,6 @@
 # **`Unicode-Bedrock-New + The Hive`**
- **Minecraft:Bedrock Edition Unicode characters**
+ **Minecraft:Bedrock Edition Unicode characters**<br>
+ Thanks to [jesdicaDomo](https://github.com/jesdicaDomo/Unicode-Bedrock-New)
 <br>
 
 > - <h2>How to install Unicode on mobile</h2>
@@ -381,4 +382,3 @@
 |             U2B39                  |     All      |    ⩱      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 22 12](https://user-images.githubusercontent.com/12781303/123561272-84bc4600-d7d1-11eb-8f0f-0d18f0616516.png)|
 
 <br>
-Thanks to ![jesdicaDomo](https://github.com/jesdicaDomo/Unicode-Bedrock-New)
