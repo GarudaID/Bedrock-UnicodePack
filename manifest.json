@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Unicode-TH",
+        "name": "teddyz9_TaeyeonSNSD99_Frongky",
+        "uuid": "4ea5f1f2-0df9-4b89-bc82-515791e98c88",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description":  "Unicode-TH",
+            "type": "resources",
+            "uuid": "f84d5892-d8a0-42e9-bee5-744d4808fa0c",
+            "version": [1, 0, 0]
+        }
+    ]
+}
