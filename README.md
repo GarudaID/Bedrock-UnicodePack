@@ -1,6 +1,5 @@
 # **`Unicode-Bedrock-New + The Hive`**
  **Minecraft:Bedrock Edition Unicode characters**<br>
- Thanks to [jesdicaDomo](https://github.com/jesdicaDomo/Unicode-Bedrock-New)
 <br>
 
 > - <h2>Unicode usage (Click this Image for Tutorial)</h2>
